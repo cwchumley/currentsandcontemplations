@@ -1,0 +1,54 @@
+baseURL = 'https://cchumley.github.io/currentsandcontemplations/'
+languageCode = 'en-us'
+title = 'Currents and Contemplations'
+theme = "PaperMod"
+
+# Enable features
+enableGitInfo = true
+enableEmoji = true
+
+# Build settings
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# Author information
+[params]
+  author = "Carter"
+  description = "Personal blog exploring thoughts, ideas, and experiences"
+  keywords = ["blog", "personal", "thoughts", "writing"]
+  
+  # Theme-specific settings
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  
+  # Profile mode settings (optional)
+  # profileMode.enabled = true
+  # profileMode.title = "Currents and Contemplations"
+  # profileMode.subtitle = "Personal blog exploring thoughts, ideas, and experiences"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
