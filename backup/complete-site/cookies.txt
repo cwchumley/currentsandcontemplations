@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.currentsandcontemplations.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1753125782|Vd1qB34YouKn
+www.currentsandcontemplations.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.currentsandcontemplations.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_virginia-pub_g
+
