@@ -15,8 +15,8 @@ buildExpired = false
 # Author information
 [params]
   author = "Carter"
-  description = "Personal blog exploring thoughts, ideas, and experiences"
-  keywords = ["blog", "personal", "thoughts", "writing"]
+  description = "Personal blog exploring thoughts, ideas, and experiences on and off the water"
+  keywords = ["blog", "fishing", "fly fishing", "colorado", "travel", "music", "personal"]
   
   # Theme-specific settings
   ShowReadingTime = true
@@ -24,28 +24,48 @@ buildExpired = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
   
-  # Profile mode settings (optional)
-  # profileMode.enabled = true
-  # profileMode.title = "Currents and Contemplations"
-  # profileMode.subtitle = "Personal blog exploring thoughts, ideas, and experiences"
+  # Homepage settings
+  homeInfoParams.Title = "Currents and Contemplations"
+  homeInfoParams.Content = """
+Welcome to my personal blog where I get to have a one sided conversation with the internet. 
+Life is too great of a thing to not record and reflect upon. I hope to do a little justice to the memories made both on and off the water, 
+in times of solitude and reflection, and friendship and revelry. You can expect musings about fishing as well as music, travel and some other miscellaneous topics as I feel inspired enough to write about them.
+"""
+
+  # Social links (update with your actual social media)
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:currentsandcontemplations@gmail.com"
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 5
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 10
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 10
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
     weight = 20
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
     weight = 30
+
+# Taxonomy configuration
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [markup]
   [markup.goldmark]
