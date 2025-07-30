@@ -4,7 +4,7 @@ date: 2024-05-02T10:00:00-06:00
 draft: false
 tags: ["fishing", "wilderness", "wyoming", "backpacking", "2024", "golden trout", "brothers"]
 categories: ["Fishing", "Travel"]
-description: "A multi-day wilderness fishing adventure in Wyoming's Cloud Peak Wilderness"
+description: "A multi-day wilderness fishing adventure in Wyoming's Cloud Peak Wilderness."
 ---
 
 **It's pretty flat in Wyoming**, but we've managed to set up camp at 12,000 feet nestled in the heart of the Cloud Peak Wilderness. I'm laying in my tent recovering from the final 1,000 feet of rock we just clamored over to get here. My brothers and I have spent the last 2 and a half days making it to this spot, by way of two intra-state road trips, one small town bed and breakfast, and a full day of hiking and fishing before a serious rock scramble. Before we had ever set foot out of our doorstep, this trip has been in the making for far longer. Years ago, my brother, Harlan, had sleuthed this location, and in classic fashion would never tell me exactly where it was. It was February, during our monthly brothers night dinner that Harlan finally divulged the location over a Korean hotpot meal. And six months later we had finally made it. Harlan, Ford and I – the three brothers Chumley, teed up for the ultimate high alpine fishing trip - four nights to camp, five days to fish.
@@ -47,4 +47,4 @@ After getting our fill of fishing, we got back to camp, took down the food bags 
 
 ---
 
-*This is part 1 of the Cloud Peak Wilderness fishing trip series. Stay tuned for the continuation of our adventure to the high alpine lakes and the golden trout that await!* 
+*This is part 1 of the Cloud Peak Wilderness fishing trip series.* 
