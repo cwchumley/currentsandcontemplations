@@ -15,7 +15,7 @@ Addison had initially reached out to us on Sunday after riding in the canyon and
 
 These afternoon showers are in part due to the amount of water held in the soil. On our sunny, warm Summer days, this water evaporates and forms the afternoon storms, which in turn puts water into the ground, which then evaporates, and so on and so on...
 
-![High flows on Boulder Creek](/images/posts/boulder-creek/high-flows.jpg)
+![High flows on Boulder Creek](/images/posts/boulder-creek/creek-from-above.jpg)
 
 This natural process, a part of our larger water lifecycle, is something one grows accustomed to when you play in nature so frequently. You always take caution of the weather - and for this trip we had to change expectations quickly. Thankfully a little bit of high water can't drown our spirits.
 
@@ -27,16 +27,12 @@ I had low confidence in the water - much of it moving too fast for my taste. Loo
 
 There was limited water for us to work over, so we decided to hop back in the car and drive further up river. We determined we could find more optimal water above a few of the feeder creeks. We pulled into a small parking lot up river that promised many more fishable runs. Jumping out of the car we had a renewed excitement at the possibility that this spot will be the spot; so it goes.
 
-![Surveying the bottom of a small tail out](/images/posts/boulder-creek/small-tail-out.jpg)
+![Surveying the bottom of a small tail out](/images/posts/boulder-creek/addison-creek.jpg)
 
 After casting my caddis through several runs and moving around a little, I wasn't finding any luck on water that I thought looked much more attractive than what we had fished. I considered changing up my rig, but I had already gotten the skunk off of my back and had resigned to the fact that I was 'lazy fishing' for the remainder of the afternoon - I was just happy to be there. At least, I thought I was content with catching no more fish until Dave reported that Addison had caught three small browns on a hopper! Quickly changing out the fly to the large terrestrial, I was ready to go again.
 
-![A pretty Boulder Creek brown - his eyes may have been larger than his stomach](/images/posts/boulder-creek/boulder-creek-brown.jpg)
+![A pretty Boulder Creek brown - his eyes may have been larger than his stomach](/images/posts/boulder-creek/chubby-brownie.jpg)
 
 Alas, it wasn't meant to be, and after working a few more runs it seemed like the afternoon might be over. I went over and watched Addison and Dave fish for a little while longer, then we all decided to head back into town to have a beer and dinner. We enjoyed ourselves at West End Tavern, breaking down the past few hours and recollecting on previous fishing trips.
 
 The success, or lack thereof, was never a factor in the enjoyment of a quick trip like this one. Watching the sun slowly drift below the canyon walls, painting the brilliant colors across the sky, with bare feet in the water - what could be better for an evening after work? The company of friends makes it that much better.
-
----
-
-*Quick trips to local waters are often the most rewarding adventures.* 
