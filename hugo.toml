@@ -30,9 +30,7 @@ buildExpired = false
   # Homepage settings
   homeInfoParams.Title = "Currents and Contemplations"
   homeInfoParams.Content = """
-Welcome to my personal blog where I get to have a one sided conversation with the internet. 
-Life is too great of a thing to not record and reflect upon. I hope to do a little justice to the memories made both on and off the water, 
-in times of solitude and reflection, and friendship and revelry. You can expect musings about fishing as well as music, travel and some other miscellaneous topics as I feel inspired enough to write about them.
+Welcome to my blog! In my blog I hope to do a little justice to the memories made both on and off the water, in times of solitude and reflection, and friendship and revelry. You can expect to find musings about fishing, music, travel and other miscellaneous topics when I am inspired enough to write about them.
 """
 
   # Social links (update with your actual social media)
