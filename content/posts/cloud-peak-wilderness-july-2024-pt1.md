@@ -21,27 +21,33 @@ Thankfully, we managed to not spiral completely. Even with a ridiculous, never g
 
 The plan was for Ford and I to set out from Denver and meet Harlan at our rendezvous in Ten Sleep, Wyoming. As luck would have it, the week before our trip I found myself in a brand-new Tacoma. Excited to christen it the right way, I researched the drive to Ten Sleep Wyoming from Denver Colorado with hope that there would make the maiden voyage more unique. I stumbled upon Crazy Woman Creek while peering at small blue lines on Google Maps. Without 100% consulting Ford, I made plans for us to navigate through the canyon. Just due south of Buffalo, we drove West through Mayotown (that is indeed a real place) and into the canyon. We quickly determined we'd rather journey onward rather than pull off for some fishing. The narrow, boulder filled canyon had limited fishing opportunities. The driving, it turned out, was the point of this detour.
 
-![Looking at the mountains before entering Crazy Woman Creek.](/images/posts/cloud-peak-wilderness/crazy-woman-creek.jpg)
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/approaching-mountains.jpeg" alt="Looking at the mountains before entering Crazy Woman Creek" caption="Looking at the mountains before entering Crazy Woman Creek." >}}
 
 Over the Cloud Peak Skyway we went as we dropped into the Western basin, snaking our way through Ten Sleep canyon and arriving at, well, Ten Sleep. The town name originated from its roots as a Native American rest stop – taking 10 days to reach Yellowstone National Park, Fort Laramie and an Indian Agency on the Stillwater River (although I heard a few different locations when I asked a local). It's a sleepy, conservative, single-street ranching town. We made our way first to the Carter Inn, a perfectly fine bed and breakfast on one end of Main Street. Ford and I shot the shit for a while until Harlan pulled in by way of Jackson.
 
 Now together, we went to the Sleepy Coyote to drink beer, eat our last red meat for the next 6 days, and talk about all the fish we were to catch. Getting to bed the night before any large trip always feels a little like the night before Christmas. Spending that night with the brothers made it feel even more right.
 
-![Cheesing in front of the Carter Inn sign - my namesake.](/images/posts/cloud-peak-wilderness/carter-inn.jpg)
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/carter-inn.jpeg" alt="Cheesing in front of the Carter Inn sign - my namesake" caption="Cheesing in front of the Carter Inn sign - my namesake." >}}
 
 ## Day 2 – Hike to Solitude Lake
 
 After a filling breakfast from our hosts at the Carter Inn, we packed our gear into the bed of the Tacoma and hit the road. A little way back up Ten Sleep Canyon we hooked a left due north and entered the rolling country of the Cloud Peak Wilderness. The trailhead we set out from operated as a basecamp to several horse pack outfitters. It was a little bit of a surprise to see this area so active. After all the planning this was the first moment in what would be a recurring theme that there were more people than originally expected. Of course, when I say, "more people", I mean it was still pretty damn desolate – it *is* Wyoming after all.
 
-![Some fresh mud on the truck after driving to the trailhead.](/images/posts/cloud-peak-wilderness/tacoma-mud.jpg)
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/tacoma-mud.jpeg" alt="Some fresh mud on the truck after driving to the trailhead" caption="Some fresh mud on the truck after driving to the trailhead." >}}
 
 We hiked through Battle Park on our way to Heart Lake, then descended into Paint Rock Creek. Once we arrived at the water, we couldn't help but dive into some fishing. As we approached the creek, the first pool we laid our eyes on was as if it were made for a fly fisherman. We quickly rigged up before getting on a handful of small brookies who never bothered to second guess their eats. A cold wind and some dark clouds threatened to bring in an afternoon thunderstorm, so we continued onward to Solitude Lake. Just as we evaluated the perfect campsite, the rain began. We all set up our tents and huddled under Ford's hammock camping tarp while the rain softly pattered, then transitioned into a light hail.
+
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/battle-park.jpeg" alt="Hiking through Battle Park" caption="Hiking through Battle Park." >}}
+
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/paint-rock-creek-1.jpeg" alt="Approaching Paint Rock Creek for some midday fishing" caption="Approaching Paint Rock Creek for some midday fishing." >}}
 
 The afternoon storm had passed in short order and we had several hours of daylight left. Our first order of business was refilling water and establishing our bear hang location. While eastern Wyoming is not particularly known for its bear population, we had heard a few stories headed into this trip and were ready to exercise abundant caution. And I mean abundant. The thing about hanging three bags of food packed for 5 nights of food is that it's a complete bitch. With so much weight, the bags sunk to the point that made it nearly impossible to hang out of reach for a bear. But mainly thanks to the ingenuity and proper rock throwing skills of my brothers we managed to string up a sophisticated bear hang just up the trail from our camp using a pulley system between two trees.
 
 With our camping responsibilities taken care of, it was time for us to turn our attention to fishing the inlet of Solitude Lake. Once again, there were many brookies that wanted a piece of whatever we were throwing, splashing at the opportunity for a large meal relative to their size. The sunset was reflecting over the lake and washing the basin and the peaks above in crimson-gold - it truly was a beautiful evening.
 
-![Sunset at Solitude Lake](/images/posts/cloud-peak-wilderness/solitude-sunset.jpg)
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/solitude-sunset.jpeg" alt="Sunset at Solitude Lake" caption="Sunset at Solitude Lake." >}}
+
+{{< figure src="/images/posts/cloud-peak-wilderness-pt1/ford-at-sunset.jpeg" alt="Ford at Sunset" caption="Ford basking in the golden hour light." >}}
 
 After getting our fill of fishing, we got back to camp, took down the food bags from the world class engineering hang, and enjoyed our first camp meal. At least, we mostly enjoyed our meal while trying to ignore the hordes of mosquitos that buzzed in the air. We all spent the evening with anticipation of what was to come – what sort of adventure lay ahead of us? What would the ascent look like? What sort of fishing would we find? We speculated while playing Farkle and drinking sleepy time tea – what would become our nightly ritual for the rest of the trip. One more night of sleep and a 1,000 foot scramble separated us from the lakes that had been on our minds for 6 months.
 
